@@ -3,7 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Sérgio+Santana!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+<div align="justify">
 Sou profissional na área de Engenharia de Software e Analista de Requisitos há 3 anos, tendo contribuído significativamente para a otimização de processos em projetos de tecnologia da informação por meio da aplicação de análise de dados, engenharia de requisitos e testes de software, sempre com foco em eficiência e confiabilidade. Com mestrado em Economia pela Universidade Federal de Sergipe e atualmente cursando Doutorado em Ciências da Computação na UFPE, desenvolvo soluções na interseção entre ciência de dados, automação e inteligência computacional. Minha atuação é orientada por dados, priorizando a qualidade, inovação e o uso de tecnologias emergentes para apoiar decisões mais inteligentes e fundamentadas. Busco constantemente integrar conhecimentos em aprendizado de máquina, bancos de dados e engenharia de software para ampliar o impacto social e econômico de soluções tecnológicas em diferentes contextos. Sou um apaixonado por tecnologia e tenho grande interesse em aprender e explorar novas ferramentas e metodologias.
+  </div>
+  
 ## 🌎 Encontre-me na web
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergiorssantana/)
 - ✉️ sergiorssantana@hotmail.com
