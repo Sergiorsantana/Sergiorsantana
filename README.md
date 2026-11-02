@@ -157,39 +157,6 @@ Tenho interesse em desenvolver soluções nas seguintes frentes:
 
 ---
 
-## 🌎 Conecte-se comigo
-
-\<div align="center"\>
-
-\<a href="https://www.linkedin.com/in/sergiorssantana/" target="\_blank"\> \<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/\> \</a\> \<a href="mailto:sergiorssantana@hotmail.com"\> \<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/\> \</a\>
-
-\</div\>
-
----
-
-## 📈 GitHub Analytics
-
-\<div align="center"\>
-
-\<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergiorsantana&show\_icons=true&theme=tokyonight&include\_all\_commits=true&count\_private=true"/\>
-
-\<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiorsantana&layout=compact&langs\_count=8&theme=tokyonight"/\>
-
-\<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sergiorsantana&theme=tokyo-night&hide\_border=true"/\>
-
-\</div\>
-
----
-
-\<div align="center"\>
-
-### 💡 Transformando conhecimento em inteligência, tecnologia em soluções e inovação em valor para os negócios.
-
-**Software Engineering | Artificial Intelligence | RAG | Agentic AI | Generative AI | Business Intelligence**
-
-\<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4079a8,100:6c63ff&height=100&section=footer"/\>
-
-\</div\>
 
 
 
