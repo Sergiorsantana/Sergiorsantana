@@ -1,5 +1,5 @@
 <img width="1920" height="600" alt="Image" src="https://github.com/user-attachments/assets/cd98dc10-be1a-4b45-a612-beaf170e62d4" />
-<h1 align="center">Olá, sou Sérgio Santana 👋</h1>
+
 
 <div align="center">
 
