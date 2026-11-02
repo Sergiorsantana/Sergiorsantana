@@ -1,70 +1,198 @@
-<!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+## README.md 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Sérgio+Santana!+%F0%9F%91%8B)](https://git.io/typing-svg)
+Escrita
 
-<div align="justify">
-Sou profissional na área de Engenharia de Software e Analista de Requisitos há 3 anos, tendo contribuído significativamente para a otimização de processos em projetos de tecnologia da informação por meio da aplicação de análise de dados, engenharia de requisitos e testes de software, sempre com foco em eficiência e confiabilidade. Com mestrado em Economia pela Universidade Federal de Sergipe e atualmente cursando Doutorado em Ciências da Computação na UFPE, desenvolvo soluções na interseção entre ciência de dados, automação e inteligência computacional. Minha atuação é orientada por dados, priorizando a qualidade, inovação e o uso de tecnologias emergentes para apoiar decisões mais inteligentes e fundamentadas. Busco constantemente integrar conhecimentos em aprendizado de máquina, bancos de dados e engenharia de software para ampliar o impacto social e econômico de soluções tecnológicas em diferentes contextos. Sou um apaixonado por tecnologia e tenho grande interesse em aprender e explorar novas ferramentas e metodologias.
-  </div>
-  
-## 🌎 Encontre-me na web
-- 💼 [LinkedIn](https://www.linkedin.com/in/sergiorssantana/)
-- ✉️ sergiorssantana@hotmail.com
+\<\!-- HEADER --\>
 
-<!-- <div align="left">
-  <a href="https://www.linkedin.com/in/sergiorssantana/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://w.app/g3INL9">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:sergiorssantana@hotmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div> -->
+\<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4079a8,100:6c63ff&height=160&section=header&text=Sérgio%20Santana&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Artificial%20Intelligence%20%7C%20Business%20Innovation&descAlignY=58&descSize=14"/\>
 
-## 💻 Áreas de Interesse
+\<div align="center"\>
 
-- **QA** – Assegurando a Qualidade das Aplicações:
-  - **Testes Manuais:** Análise detalhada e execução de testes manuais para garantir a qualidade do software.
-  - **Testes Automatizados:** Desenvolvimento de scripts para automatizar testes e aumentar a eficiência.
-  - **Testes de Performance:** Avaliação da escalabilidade e estabilidade das aplicações.
+[\!\[Typing SVG\](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4079A8&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI+%26+Data+Enthusiast;RAG+%7C+Agentic+AI+%7C+Generative+AI;Connecting+Technology%2C+Data+and+Business;Building+Intelligent+and+Scalable+Solutions)](<https://git.io/typing-svg>)
 
---- 
+\</div\>
 
-- **DEVOPS** – Adotando as melhores práticas para uma operação eficiente:
-  - **Cloud:** Gestão de ambientes em nuvem pública e privada.
-  - **Infraestrutura como Código:** Automação da infraestrutura para facilitar o gerenciamento e a escalabilidade.
-  - **Pipeline:** Implementação e otimização de pipelines para automação de processos.
+---
 
---- 
+## 👨‍💻 Sobre mim | About Me
 
-- **SRE** – Garantindo a Confiabilidade e Disponibilidade:
-  - **Monitoramento:** Acompanhamento contínuo da infraestrutura e aplicações para garantir sua performance e disponibilidade.
+Sou profissional de **Engenharia de Software e Análise de Requisitos**, com experiência na otimização de processos, qualidade de software, análise de dados e desenvolvimento de soluções tecnológicas.
 
+Mestre em **Economia pela Universidade Federal de Sergipe (UFS)** e doutorando em **Ciências da Computação pela Universidade Federal de Pernambuco (UFPE)**, desenvolvo uma trajetória acadêmica e profissional na interseção entre tecnologia, inteligência computacional, ciência de dados e inovação.
 
-## 👨‍💻Conhecimentos 
+Meu interesse está direcionado à construção de soluções inteligentes que conectam **Engenharia de Software, Inteligência Artificial e Estratégia de Negócios**, transformando dados e conhecimento em valor para organizações e pessoas.
 
-### Na área de QA
+Atualmente, tenho especial interesse nas seguintes áreas:
 
-<details>
-<summary>Conhecimento das melhores ferramentas para garantir que o software seja sempre de alta qualidade.</summary>
+- 🧠 **Generative AI:** desenvolvimento de aplicações inteligentes utilizando Large Language Models (LLMs).
+- 🔎 **RAG (Retrieval-Augmented Generation):** integração de modelos de linguagem com bases de conhecimento, documentos e dados corporativos.
+- 🤖 **Agentic AI:** agentes autônomos e sistemas multiagentes capazes de planejar, raciocinar, utilizar ferramentas e executar fluxos de trabalho.
+- 📊 **AI & Data Intelligence:** aplicação de inteligência artificial e análise de dados para apoiar decisões estratégicas.
+- ⚙️ **AI Engineering:** arquitetura, desenvolvimento, integração e avaliação de aplicações baseadas em IA.
+- 💼 **AI for Business:** aplicação de IA para automação de processos, produtividade, eficiência operacional e geração de valor.
+- 🧪 **Software Quality Engineering:** qualidade, confiabilidade, testes e validação de sistemas inteligentes.
 
-  - [**Selenium**](https://www.selenium.dev/): Automação de navegadores para testes de aplicações web.
-  - [**Robot Framework**](https://robotframework.org/): Framework de automação de testes baseado em palavras-chave.
-  - [**Cypress**](https://www.cypress.io/): Framework moderno para testes end-to-end de aplicações web.
-  - [**Playwright**](https://playwright.dev/): Framework para automação de testes em múltiplos navegadores.
-  - [**Postman**](https://www.postman.com/): Postman é sua plataforma única para desenvolvimento colaborativo de API. 
-  - [**k6**](https://grafana.com/docs/k6/latest/): O Grafana k6 é uma ferramenta de teste de carga extensível, de código aberto e fácil de usar para desenvolvedores.
-</details>
+Meu objetivo é conectar conhecimento científico, engenharia e visão de negócio para desenvolver soluções tecnológicas escaláveis, confiáveis e orientadas a resultados.
 
---- 
+---
 
+## 🚀 Áreas de atuação e interesses
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sergiorsantana&show_icons=true&theme=radical" height="290" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sergiorsantana&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergiorsantana&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
-</div>
+### 🧠 Artificial Intelligence & Generative AI
+
+- Large Language Models (LLMs).
+- Generative AI Applications.
+- Prompt Engineering.
+- Context Engineering.
+- AI Application Development.
+- Model Evaluation & Optimization.
+- Multimodal AI.
+
+### 🔎 RAG — Retrieval-Augmented Generation
+
+- RAG Architecture.
+- Advanced RAG.
+- Hybrid Search.
+- Semantic Search.
+- Vector Databases.
+- Embeddings.
+- Reranking.
+- Knowledge Bases.
+- Document Processing.
+- Enterprise RAG.
+- GraphRAG.
+
+### 🤖 Agentic AI & Autonomous Agents
+
+- AI Agents.
+- Multi-Agent Systems.
+- Agentic Workflows.
+- Tool Calling & Function Calling.
+- AI Orchestration.
+- Planning & Reasoning.
+- Human-in-the-Loop.
+- Memory & Context Management.
+- Workflow Automation.
+
+### 💼 AI, Business & Digital Transformation
+
+- Business Intelligence.
+- Business Process Automation.
+- AI-Driven Decision Making.
+- Process Optimization.
+- Business Process Management (BPM).
+- Requirements Engineering.
+- Digital Transformation.
+- Data-Driven Strategy.
+- AI Governance & Responsible AI.
+- Business Value & ROI of AI.
+
+### 💻 Software Engineering & Architecture
+
+- Software Architecture.
+- API Development & Integration.
+- Backend Development.
+- Microservices.
+- Database Engineering.
+- Cloud Computing.
+- Infrastructure as Code.
+- CI/CD.
+- DevOps & SRE.
+
+### 🧪 Quality Engineering & Testing
+
+- Quality Assurance (QA).
+- Test Automation.
+- API Testing.
+- End-to-End Testing.
+- Performance Testing.
+- Software Reliability.
+- AI Application Evaluation.
+- LLM Testing & Quality Assurance.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### Artificial Intelligence & LLM Ecosystem
+
+\!Python \!OpenAI \!Hugging Face \!LangChain \!LlamaIndex \!Ollama
+
+### RAG, Vector Databases & Data
+
+\!PostgreSQL \!Redis \!Elasticsearch \!MongoDB \!Apache Spark
+
+### Development & Software Engineering
+
+\!Java \!JavaScript \!TypeScript \!FastAPI \!Node.js \!Docker
+
+### QA, DevOps & SRE
+
+\!Selenium \!Cypress \!Playwright \!Robot Framework \!Postman \!Grafana \!GitHub Actions
+
+---
+
+## 🧩 Como conecto tecnologia e negócios
+
+Acredito que a Inteligência Artificial gera valor quando ultrapassa a experimentação e resolve problemas reais.
+
+Minha visão está fundamentada em quatro pilares:
+
+| Pilar | Objetivo |
+| --- | --- |
+| 🧠 Inteligência Artificial | Desenvolver soluções generativas, agentes inteligentes e sistemas baseados em conhecimento. |
+| ⚙️ Engenharia | Construir arquiteturas escaláveis, seguras, integráveis e confiáveis. |
+| 📊 Dados | Transformar informações em conhecimento e inteligência para tomada de decisão. |
+| 💼 Negócios | Converter inovação tecnológica em produtividade, eficiência e resultados mensuráveis. |
+
+---
+
+## 🔬 Projetos e linhas de exploração
+
+Tenho interesse em desenvolver soluções nas seguintes frentes:
+
+- **Enterprise RAG:** assistentes inteligentes para consulta de documentos, políticas, contratos e bases de conhecimento corporativas.
+- **AI Agents for Business:** agentes inteligentes para automatização de processos e execução de tarefas empresariais.
+- **Multi-Agent Systems:** sistemas colaborativos em que diferentes agentes trabalham para solucionar problemas complexos.
+- **AI-Powered Software Engineering:** utilização de IA para apoiar análise de requisitos, desenvolvimento, testes e manutenção de software.
+- **Intelligent Business Analytics:** aplicações que integram dados, LLMs e inteligência analítica para apoiar decisões.
+- **AI Quality Engineering:** estratégias para avaliar precisão, confiabilidade, segurança e desempenho de aplicações baseadas em LLMs.
+
+---
+
+## 🌎 Conecte-se comigo
+
+\<div align="center"\>
+
+\<a href="https://www.linkedin.com/in/sergiorssantana/" target="\_blank"\> \<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/\> \</a\> \<a href="mailto:sergiorssantana@hotmail.com"\> \<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/\> \</a\>
+
+\</div\>
+
+---
+
+## 📈 GitHub Analytics
+
+\<div align="center"\>
+
+\<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergiorsantana&show\_icons=true&theme=tokyonight&include\_all\_commits=true&count\_private=true"/\>
+
+\<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiorsantana&layout=compact&langs\_count=8&theme=tokyonight"/\>
+
+\<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sergiorsantana&theme=tokyo-night&hide\_border=true"/\>
+
+\</div\>
+
+---
+
+\<div align="center"\>
+
+### 💡 Transformando conhecimento em inteligência, tecnologia em soluções e inovação em valor para os negócios.
+
+**Software Engineering | Artificial Intelligence | RAG | Agentic AI | Generative AI | Business Intelligence**
+
+\<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4079a8,100:6c63ff&height=100&section=footer"/\>
+
+\</div\>
+
 
 
