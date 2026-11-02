@@ -1,17 +1,14 @@
 ## README.md 
 
-Escrita
+![Header](https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=150&section=header)
 
-\<\!-- HEADER --\>
+# 👋 Olá, sou Sérgio Santana!
 
-\<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4079a8,100:6c63ff&height=160&section=header&text=Sérgio%20Santana&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Artificial%20Intelligence%20%7C%20Business%20Innovation&descAlignY=58&descSize=14"/\>
+<div align="center">
 
-\<div align="center"\>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4079A8&center=true&vCenter=true&width=600&lines=Software+Engineering;Generative+AI+%7C+RAG;Agentic+AI+%7C+AI+Engineering;Technology+%2B+Data+%2B+Business)
 
-[\!\[Typing SVG\](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4079A8&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI+%26+Data+Enthusiast;RAG+%7C+Agentic+AI+%7C+Generative+AI;Connecting+Technology%2C+Data+and+Business;Building+Intelligent+and+Scalable+Solutions)](<https://git.io/typing-svg>)
-
-\</div\>
-
+</div>
 ---
 
 ## 👨‍💻 Sobre mim | About Me
