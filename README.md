@@ -1,15 +1,13 @@
-## README.md 
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=150&section=header)
-
-# 👋 Olá, sou Sérgio Santana!
+<img width="100%" src="assets/banner_diagrama.png" alt="LLM no centro, ligado a RAG, MCP, dados, visão computacional e agentes"/>
+<h1 align="center">Olá, sou Sérgio Santana 👋</h1>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4079A8&center=true&vCenter=true&width=600&lines=Software+Engineering;Generative+AI+%7C+RAG;Agentic+AI+%7C+AI+Engineering;Technology+%2B+Data+%2B+Business)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4079A8&center=true&vCenter=true&width=600&lines=Software+Engineering;Generative+AI+%7C+RAG;Agentic+AI+%7C+MCP;Data+%2B+Economics+%2B+Business" alt="Typing SVG"/>
 
 </div>
----
+
+
 
 ## 👨‍💻 Sobre mim | About Me
 
